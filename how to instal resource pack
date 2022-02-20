@@ -1,7 +1,7 @@
 how to instal resource pack tutorial
 
 create file "resources" first on your file explorer
-first in your "resources" file, create assets
+first in your "resources" file, create assets, pack.mcmeta and pack.pmg
  
    > assets
       create "minecraft" file
