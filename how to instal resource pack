@@ -1,0 +1,16 @@
+how to instal resource pack tutorial
+
+create file "resources" first on your file explorer
+first in your "resources" file, create assets
+ > assets
+    create "minecraft" file
+     download "models", "sounds", "textures" and "sounds.json" file first preview 
+                                                                             |
+                                                                             v
+models               File Folder
+sounds               File Folder
+textures             File Folder
+sounds               JSON File
+
+---------------------------------------------------------------------------------------------
+now copy this file to resource packs in .minecraft(%appdata%)
